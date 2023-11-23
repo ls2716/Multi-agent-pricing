@@ -1,0 +1,9 @@
+# Specifies the parameters that are common to all the experiments.
+environment_parameters:
+  sigma: 0.15
+  rho: 0.5
+  tau: 0.13
+  N: 2
+  S_c: 1.0
+  nash_payoff: 0.081
+  pareto_payoff: 0.364
