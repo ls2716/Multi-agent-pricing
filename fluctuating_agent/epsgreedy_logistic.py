@@ -43,7 +43,7 @@ np.random.seed(0)
 # Define parameters
 no_sim = 200  # Number of simulations
 T = 1000  # Number of time steps
-no_actions = 129  # Number of actions
+no_actions = 5  # Number of actions
 action_set = np.linspace(0.1, 0.9, no_actions, endpoint=True)  # Action set
 
 tau = 40  # Window size for sliding window method
