@@ -1,4 +1,4 @@
-# Bandits for Insurance Pricing
+# Bandits for Pricing
 
 This repository contains the code for the numerical simulations
 and analysis for the work presented in the manuscript [link]().
